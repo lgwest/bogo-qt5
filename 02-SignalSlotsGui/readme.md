@@ -1,0 +1,2 @@
+- [Signals and Slots](https://doc.qt.io/qt-5/signalsandslots.html)
+- https://www.bogotobogo.com/Qt/Qt5_SignalsSlotsGui.php
